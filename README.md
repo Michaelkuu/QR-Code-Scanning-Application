@@ -1,8 +1,8 @@
 # QR Code Scanning Application for Museums
 
 ## Authors
-- Michał Kucharek
-- Dariusz Dąbrowski
+- Michał Kucharek https://github.com/Michaelkuu
+- Dariusz Dąbrowski https://github.com/PixelEfect
 - Adam Nowicki
 
 ## Goals
