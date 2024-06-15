@@ -1,16 +1,39 @@
-# projekt
+# QR Code Scanning Application for Museums
 
-A new Flutter project.
+## Authors
+- Michał Kucharek https://github.com/Michaelkuu
+- Dariusz Dąbrowski https://github.com/PixelEfect
+- Adam Nowicki
 
-## Getting Started
+## Goals
 
-This project is a starting point for a Flutter application.
+### Enhancing the Museum Visiting Experience through Mobile Technology
+- Develop a mobile application that allows visitors to use their own mobile phones during their museum visit.
+- Provide easy access to exhibit information through the application, eliminating the need for traditional guides or brochures.
 
-A few resources to get you started if this is your first Flutter project:
+### Interactive Exhibit Presentation
+- Offer additional information in the form of fun facts and photos to enrich the visitor experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Motivating Visitors to Explore Knowledge
+- Implement a scoring system that rewards visitors for scanning QR codes at various exhibits.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Collection Management
+- Administrators can control the exhibit collection in the application by adding new items, updating existing ones, and removing outdated ones.
+
+## Technology Stack
+
+### Backend
+- **Framework:** Django Rest Framework (DRF)
+- **Programming Language:** Python
+- **Database:** SQLite
+- **Operating System:** Linux Ubuntu
+- **IDE:** Visual Studio Code
+
+### Frontend (Mobile Application)
+- **Framework:** Flutter
+- **Programming Language:** Dart
+- **Platform:** Android
+- **IDE:** Visual Studio Code
+
+### Communication between Frontend and Backend
+- Utilization of an API created with Django Rest Framework
