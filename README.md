@@ -3,7 +3,7 @@
 ## Authors
 - Michał Kucharek https://github.com/Michaelkuu
 - Dariusz Dąbrowski https://github.com/PixelEfect
-- Adam Nowicki
+- Adam Nowicki https://github.com/Adamix303
 
 ## Goals
 
